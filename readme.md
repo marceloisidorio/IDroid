@@ -4,13 +4,13 @@
 
 ## 🔖 Informações
 <ul>
-    <li>Projeto desenvolvido ao longo do Curso de HTML5 e CSS3 do Curso em Vídeo, proposto pelo Gustavo Guanabara</li>
+    <li>Projeto desenvolvido ao longo do Curso de HTML5 e CSS3 proposto pelo Gustavo Guanabara</li>
     <li>🖱️ <a href="https://marceloisidorio.github.io/IDroid/" target="_blank">Clique aqui</a> para acessar o projeto.</li>
     <li>Confira também o <a href="#">Repositório Oficial</a> do Curso :earth_americas:</li>
 </ul>
 
 ## 🖼 Screenshot do projeto
-<img src="images/foto-projeto.jpg" alt="Imagem do Projeto" width="900"></img>
+<img src="imagens/foto-projeto.jpg" alt="Imagem do Projeto" width="900"></img>
 ## :rocket:	Tecnologias utilizadas
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
