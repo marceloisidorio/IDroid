@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
     :heavy_check_mark:Página Modelo do Projeto IDroid
-</h3>
+</h2>
 
 ## 🔖 Informações
 <ul>
