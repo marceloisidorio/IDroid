@@ -5,7 +5,7 @@
 ## 🔖 Informações
 <ul>
     <li>Projeto desenvolvido ao longo do Curso de HTML5 e CSS3 proposto pelo Gustavo Guanabara</li>
-    <li>🖱️ <a href="https://marceloisidorio.github.io/IDroid/" target="_blank">Clique aqui</a> para acessar o projeto.</li>
+    <li>🖱️ <a href="https://marceloisidorio.github.io/projeto-android/" target="_blank">Clique aqui</a> para acessar o projeto.</li>
     <li>Confira também o <a href="https://github.com/gustavoguanabara/html-css">Repositório Oficial</a> do Curso :earth_americas:</li>
 </ul>
 
