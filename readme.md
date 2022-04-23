@@ -1,5 +1,5 @@
 <h2 align="center">
-    :heavy_check_mark:Página Modelo do Projeto IDroid
+    :heavy_check_mark:Página Modelo do Projeto Android
 </h2>
 
 ## 🔖 Informações
